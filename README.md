@@ -1,6 +1,6 @@
 # The Tool - PETSCOP AI
 
-This game is developed for my school project, inspired by Petscop Video Game.
+AI Chatbot published in Google Play Store.
 
 <table>
    <tr>
